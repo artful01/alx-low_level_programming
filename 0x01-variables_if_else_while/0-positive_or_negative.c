@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - this functions return shiit
- *Return: 0 (success) 
- */
+*main - this functions return shiit
+*Return: 0 (success)
+*/
 int main(void)
 {
 int n;
