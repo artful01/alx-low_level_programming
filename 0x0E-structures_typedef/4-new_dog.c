@@ -5,10 +5,12 @@ int _strlen(char *s);
 char *_strcpy(char *dest, char *src);
 
 /**
-  * new_dog - Create new dog
-  * @name: name of the dog
-  * @age: age
-  * @owner: owner
+  * new_dog - ...
+  * @name: ...
+  * @age: ...
+  * @owner: ...
+  *
+  * Return: ...
   */
 dog_t *new_dog(char *name, float age, char *owner)
 {
